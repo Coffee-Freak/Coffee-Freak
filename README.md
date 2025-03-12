@@ -1,5 +1,5 @@
 ﻿Sagar Mourya
-### Hi there, I'm [Your Name]! 👋✨
+### Hi there, I'm Sagar Mourya! 👋✨
 
 <!-- Minimal Monotone Banner Image -->
 ![GitHub Banner](https://source.unsplash.com/1600x400/?minimal,monochrome,abstract)
@@ -9,13 +9,9 @@
 ### 🚀 About Me
 
 ```yaml
-name: Your Name
-role: Full Stack Developer
+name: Sagar Mourya
 code:
-  - JavaScript
-  - TypeScript
   - Python
-  - Java
 frameworks:
   - React
   - Angular
@@ -25,7 +21,6 @@ hobbies:
   - '💻 Coding'
   - '🎨 UI/UX Design'
   - '🎮 Gaming'
-  - '📖 Reading'
 ```
 
 ---
