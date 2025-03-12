@@ -12,6 +12,8 @@
 name: Sagar Mourya
 code:
   - Python
+  - Java
+  - Javascript
 frameworks:
   - React
   - Angular
@@ -37,7 +39,7 @@ hobbies:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,python,java,mysql,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,nodejs,python,java,mysql,mongodb,git" />
 </p>
 
 ---
