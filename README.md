@@ -2,7 +2,6 @@
 ### Hi there, I'm Sagar Mourya! 👋✨
 
 <!-- Minimal Monotone Banner Image -->
-![GitHub Banner](https://img.freepik.com/free-vector/paper-style-wavy-background_23-2149113696.jpg)
 
 ---
 
