@@ -85,6 +85,3 @@ hobbies:
 ---
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
-
-🌟 **Star this repo if you liked it!** ⭐
-
