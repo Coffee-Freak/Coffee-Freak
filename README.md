@@ -11,16 +11,13 @@
 name: Sagar Mourya
 code:
   - Python
-  - Java
-  - Javascript
+  - c++
 frameworks:
-  - React
   - Angular
-  - Node.js
   - Flask
 hobbies:
   - '💻 Coding'
-  - '🎨 UI/UX Design'
+  - '🧠 Problem Solving'
   - '🎮 Gaming'
 ```
 
@@ -56,15 +53,8 @@ hobbies:
 
 ---
 
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/yourspotifyid)
-
----
-
 ### 🎯 Fun Facts
 
-- 🚀 I love working on Open Source projects.
 - 🧠 Always curious about new tech trends.
 - ☕ Coffee + Code = Perfect Combo!
 
@@ -83,5 +73,3 @@ hobbies:
 ![GitHub Skyline](https://github.com/yourusername/yourusername/blob/main/assets/skyline.gif)
 
 ---
-
-✨ _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
